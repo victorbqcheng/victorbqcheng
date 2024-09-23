@@ -8,7 +8,7 @@ I'm a passionate software engineer with a strong background in C++ development, 
 - **Languages:** C#, JavaScript/TypeScript, C++
 - **Frontend:** React, html, CSS, tailwind-css, MUI, MobX, storybook
 - **Backend:** .NET Core
-- **Others:** Azure, Docker, git, CI/CD, Cross-platform Development
+- **Others:** Azure, Docker, Git, CI/CD, Cross-platform Development
 
 ### 🌱 I'm currently learning
 - Deepening my knowledge in React and .NET ecosystem
