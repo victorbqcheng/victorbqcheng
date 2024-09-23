@@ -30,6 +30,7 @@ I'm a passionate software engineer with a strong background in C++ development, 
 <!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=victorbqcheng&theme=github-compact&hide_border=true&area=true" /> -->
 
 <!-- tech stack -->
+<div style="display: flex">
 <img align="center" style="display:inline" src="https://skillicons.dev/icons?i=cs&theme=light" title="csharp"/>
 <img align="center" style="display:inline" src="https://skillicons.dev/icons?i=dotnet&theme=light" />
 <img align="center" style="display:inline" src="https://skillicons.dev/icons?i=react&theme=light" />
@@ -42,3 +43,4 @@ I'm a passionate software engineer with a strong background in C++ development, 
 <img align="center" src="https://skillicons.dev/icons?i=docker&theme=light" />
 <img align="center" src="https://skillicons.dev/icons?i=tailwind&theme=light" title="tailwind css"/>
 <img align="center" src="https://skillicons.dev/icons?i=git&theme=light" />
+</div>
