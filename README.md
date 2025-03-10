@@ -1,24 +1,26 @@
 # 👋 Hi there, I'm victor cheng
 
-## 🚀 Full Stack Developer
+## 🚀 C++ Developer
 
-I'm a passionate software engineer with a strong background in C++ development, now expanding into full stack web development. With over a decade of experience in various tech roles, I'm always eager to learn and adapt to new technologies.
+I am an experienced C++ developer with extensive expertise in Windows client development, proficient in MFC, Electron, React, and related technologies. I have led and contributed to multiple cross-platform desktop application projects, including betting clients, download software, and instrument control software, demonstrating strong optimization skills.
+
+I have a solid foundation in core C++ concepts, including memory management, multithreading, file systems. I am familiar with object-oriented programming and debugging techniques to ensure efficient and stable software.
 
 ### 🛠️ Skills
-- **Languages:** C#, JavaScript/TypeScript, C++
-- **Frontend:** React, html, CSS, tailwind-css, MUI, MobX, storybook
-- **Backend:** .NET Core
-- **Others:** Azure, Docker, Git, CI/CD, Cross-platform Development
+
+- C++, STL, C#, OOP, JavaScript, React, Python, CMake, Git, Visual Studio, XML, Json, Data Structure, pugixml
 
 ### 🌱 I'm currently learning
-- Deepening my knowledge in React and .NET ecosystem
+
+- Deepening my knowledge in C++ and C#
 - Exploring cloud technologies and serverless architectures
 
 ### 📫 How to reach me
-- <a href="https://www.linkedin.com/in/victor-cheng-7a1649314/">linkedin</a>
-- victoratnz@outlook.com
+
+- <victoratnz@outlook.com>
 
 ### 🗣️ Languages
+
 - English (Fluent)
 - Chinese (Native)
 
@@ -30,17 +32,9 @@ I'm a passionate software engineer with a strong background in C++ development, 
 <!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=victorbqcheng&theme=github-compact&hide_border=true&area=true" /> -->
 
 <!-- tech stack -->
-<div style="display: flex">
-<img align="center" style="display:inline" src="https://skillicons.dev/icons?i=cs&theme=light" title="csharp"/>
-<img align="center" style="display:inline" src="https://skillicons.dev/icons?i=dotnet&theme=light" />
-<img align="center" style="display:inline" src="https://skillicons.dev/icons?i=react&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=html&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=css&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=ts&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=js&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=azure&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=cpp&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=docker&theme=light" />
-<img align="center" src="https://skillicons.dev/icons?i=tailwind&theme=light" title="tailwind css"/>
-<img align="center" src="https://skillicons.dev/icons?i=git&theme=light" />
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,py,visualstudio,vscode,git" />
+  </a>
+</p>
